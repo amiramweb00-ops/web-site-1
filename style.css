@@ -1,0 +1,48 @@
+@font-face {
+    font-family: myfont;
+    src: url(IranNastaliq/IranNastaliq.ttf);
+}
+
+
+
+h1 {
+    color: aqua;
+
+    font-family: myfont;
+}
+
+.font{
+    font-family: myfont;
+}
+
+.red{
+    color:red;
+    padding-top: 60px;
+    text-align: center;
+}
+
+.pink{
+    color:pink
+}
+.blue{
+    color: blue;
+    text-align: center;
+    font-size: 120px;
+}
+.fontme{
+    font-family: myfont;
+}
+.link{
+    font-family: myfont;
+    font-size: 90px;
+    color: black;
+}
+
+.font2{
+    font-family: myfont;
+}
+
+.link{
+    color: black;
+
+}
